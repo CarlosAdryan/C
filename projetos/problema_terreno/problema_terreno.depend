@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1741554020 source:c:\users\carlos\documents\estudos\c\projetos\problema_terreno\main.c
+	<stdio.h>
+	<stdlib.h>
+
