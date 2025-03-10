@@ -1,0 +1,6 @@
+# depslib dependency file v1.0
+1741627803 source:c:\users\carlos\documents\estudos\c\problemas_estrutura_condicional\baskara\main.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+
