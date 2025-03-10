@@ -18,10 +18,6 @@ int main()
 
     seconds = restseconds - (wholepart2 * 60);
 
-
-
-
-
     printf("%d:%d:%d", wholepart1, wholepart2, seconds);
 
 
