@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1741618322 source:c:\users\carlos\documents\estudos\c\projetos\problema_duracao\main.c
+	<stdio.h>
+	<stdlib.h>
+

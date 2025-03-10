@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1741612464 source:c:\users\carlos\documents\estudos\c\projetos\problema_pagamento\main.c
+	<stdio.h>
+	<stdlib.h>
+

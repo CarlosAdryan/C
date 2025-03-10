@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1741613529 source:c:\users\carlos\documents\estudos\c\projetos\problema_consumo\main.c
+	<stdio.h>
+	<stdlib.h>
+
