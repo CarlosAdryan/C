@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1741697685 source:c:\users\carlos\documents\estudos\c\problemas_estrutura_condicional\problema_media_idades\main.c
+	<stdio.h>
+	<stdlib.h>
+

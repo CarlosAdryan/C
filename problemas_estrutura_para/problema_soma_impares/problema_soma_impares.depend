@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1741701049 source:c:\users\carlos\documents\estudos\c\problemas_estrutura_condicional\problema_soma_impares\main.c
+	<stdio.h>
+	<stdlib.h>
+
+1741704513 source:c:\users\carlos\documents\estudos\c\problemas_estrutura_para\problema_soma_impares\main.c
+	<stdio.h>
+
